@@ -1,0 +1,14 @@
+1. navbar every menu's page should be dynamic(about-us,about-team,testimonial,),services,portfolio,pricing,blog,contact
+2.make subscribe option in footer
+3.portfolio title as per a portfolio type(just need to make a serial like app1,app2,app3)
+4.home service section dynamic
+5.footer section dynamic
+6.setting for company name,social link
+7. about us page
+8. about team page
+9. testimonial page
+10. services and feature page
+11. portfolio page
+12. pricing page 
+13. blog page
+14. contact page (already done), contact google map dynamic address
